@@ -14,13 +14,19 @@
 
 i {
  font-size: 2rem;
+ /* margin-right: 20px; */
+}
+
+.right i {
+ margin: 10px;
 }
 
 .left {
  width: 25%;
- background-color: red;
+ background-color: #44b083;
  height: 100%;
  padding: 1rem;
+ color: #fff;
 }
 
 .heading {
