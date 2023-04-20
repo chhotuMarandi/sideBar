@@ -20,6 +20,15 @@ i {
 
 .right i {
  margin: 10px;
+ color: #267a7a;
+}
+
+.left i {
+ color: #ffd500;
+}
+
+.left h1 {
+ color: #79fcfc;
 }
 
 .left {
