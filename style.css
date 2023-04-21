@@ -62,3 +62,12 @@ transform: translate(0%);
  margin: 1.2rem 0;
 
 }
+
+li {
+ padding: 0.8rem;
+}
+
+li:hover {
+ background-color: #ffd500;
+ cursor: pointer;
+}
